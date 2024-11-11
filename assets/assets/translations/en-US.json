@@ -1,0 +1,9 @@
+{
+    "wiredash": {
+        "labels": {
+            "bug": "Bug",
+            "improvement": "Suggestion",
+            "praise": "Praise"
+        }
+    }
+}
